@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.frankyvision.launcher",
+  "versionCode": 33,
+  "versionName": "0.17.0-preview",
+  "minSdk": 28,
+  "apkUrl": "https://github.com/kikin2006/FrankyVision-Launcher-Updates/releases/download/v0.17.0-preview/FrankyVision-Launcher-0.17.0-preview.apk",
+  "sha256": "3dd0d1874567808f1babfd3d0cd755bd629c6e2c921ba7522cd4f4b9be222b29",
+  "releaseNotes": "Adds the Settings update badge and a built-in launcher updater. Keeps the contained app highlight and existing home layout."
+}
