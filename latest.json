@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.frankyvision.launcher",
-  "versionCode": 34,
-  "versionName": "0.17.1-preview",
+  "versionCode": 44,
+  "versionName": "0.17.11-preview",
   "minSdk": 28,
-  "apkUrl": "https://github.com/kikin2006/FrankyVision-Launcher-Updates/releases/download/v0.17.1-preview/FrankyVision-Launcher-0.17.1-preview.apk",
-  "sha256": "5d93225e550275c3145f486d73213e4c3dfd735c57cea85f60d77e5e3a183752",
-  "releaseNotes": "Adds first-launch main-launcher or regular-app choices. Detects Fire TV, ONN and Google TV, shows matching Home settings, and explains Fire TV switching delays. Improves Google TV Home-button handling while keeping existing Home preferences and favorites."
+  "apkUrl": "https://github.com/kikin2006/FrankyVision-Launcher-Updates/releases/download/v0.17.11-preview/FrankyVision-Launcher-0.17.11-preview.apk",
+  "sha256": "e401bedefad90bb7eec09eaf5c69d3f664a03024f37de2f55733b5df85e0d6d8",
+  "releaseNotes": "Separate stacked settings buttons with consistent gaps. Long NEXUS program titles and time/channel details scroll automatically, including unhighlighted cards."
 }
