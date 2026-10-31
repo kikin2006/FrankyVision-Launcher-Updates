@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.frankyvision.launcher",
-  "versionCode": 48,
-  "versionName": "0.17.15-preview",
+  "versionCode": 50,
+  "versionName": "0.17.17-preview",
   "minSdk": 28,
-  "apkUrl": "https://github.com/kikin2006/FrankyVision-Launcher-Updates/releases/download/v0.17.15-preview/FrankyVision-Launcher-0.17.15-preview.apk",
-  "sha256": "00a6093c5c0b81b77656eb11c188029364f601940cea866b3aa60d24385af017",
-  "releaseNotes": "Warn when Home-button access is off and add a Fix Home button shortcut beside Settings. Open device accessibility settings to restore access. Avoid repeated warnings after Later and hide the shortcut once access is restored."
+  "apkUrl": "https://github.com/kikin2006/FrankyVision-Launcher-Updates/releases/download/v0.17.17-preview/FrankyVision-Launcher-0.17.17-preview.apk",
+  "sha256": "27a616d9422faea69c75fbf4932102b66b4e93115541d4704edb8bf03dfec8c3",
+  "releaseNotes": "Open FrankyVision automatically after Fire TV startup when Home-button integration is enabled. Improve video-wallpaper stability on Fire TV by using a compatible frosted background for the dock and menus while keeping video playback."
 }
