@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.frankyvision.launcher",
-  "versionCode": 47,
-  "versionName": "0.17.14-preview",
+  "versionCode": 48,
+  "versionName": "0.17.15-preview",
   "minSdk": 28,
-  "apkUrl": "https://github.com/kikin2006/FrankyVision-Launcher-Updates/releases/download/v0.17.14-preview/FrankyVision-Launcher-0.17.14-preview.apk",
-  "sha256": "a34885d3f4f1739f7ecf3892cb0ec23be0387ca7a883948c320b96c026fa25a7",
-  "releaseNotes": "Matching animated Glitch and Glow Reflections artwork for FrankyVision NEXUS, PLAY!, MEDIA, TUBE and VPN. Artwork animates on highlight and stops when leaving the app or opening a menu."
+  "apkUrl": "https://github.com/kikin2006/FrankyVision-Launcher-Updates/releases/download/v0.17.15-preview/FrankyVision-Launcher-0.17.15-preview.apk",
+  "sha256": "00a6093c5c0b81b77656eb11c188029364f601940cea866b3aa60d24385af017",
+  "releaseNotes": "Warn when Home-button access is off and add a Fix Home button shortcut beside Settings. Open device accessibility settings to restore access. Avoid repeated warnings after Later and hide the shortcut once access is restored."
 }
