@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.frankyvision.launcher",
-  "versionCode": 44,
-  "versionName": "0.17.11-preview",
+  "versionCode": 45,
+  "versionName": "0.17.12-preview",
   "minSdk": 28,
-  "apkUrl": "https://github.com/kikin2006/FrankyVision-Launcher-Updates/releases/download/v0.17.11-preview/FrankyVision-Launcher-0.17.11-preview.apk",
-  "sha256": "e401bedefad90bb7eec09eaf5c69d3f664a03024f37de2f55733b5df85e0d6d8",
-  "releaseNotes": "Separate stacked settings buttons with consistent gaps. Long NEXUS program titles and time/channel details scroll automatically, including unhighlighted cards."
+  "apkUrl": "https://github.com/kikin2006/FrankyVision-Launcher-Updates/releases/download/v0.17.12-preview/FrankyVision-Launcher-0.17.12-preview.apk",
+  "sha256": "ff24a48348d3f9ead3298b33e0f1259ce05fb82598340f8ac367c6e3bbdef20f",
+  "releaseNotes": "Update NEXUS download link and approved APK hash to the newly supplied signed 0.95.40 build."
 }
