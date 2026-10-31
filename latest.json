@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.frankyvision.launcher",
-  "versionCode": 45,
-  "versionName": "0.17.12-preview",
+  "versionCode": 47,
+  "versionName": "0.17.14-preview",
   "minSdk": 28,
-  "apkUrl": "https://github.com/kikin2006/FrankyVision-Launcher-Updates/releases/download/v0.17.12-preview/FrankyVision-Launcher-0.17.12-preview.apk",
-  "sha256": "ff24a48348d3f9ead3298b33e0f1259ce05fb82598340f8ac367c6e3bbdef20f",
-  "releaseNotes": "Update NEXUS download link and approved APK hash to the newly supplied signed 0.95.40 build."
+  "apkUrl": "https://github.com/kikin2006/FrankyVision-Launcher-Updates/releases/download/v0.17.14-preview/FrankyVision-Launcher-0.17.14-preview.apk",
+  "sha256": "a34885d3f4f1739f7ecf3892cb0ec23be0387ca7a883948c320b96c026fa25a7",
+  "releaseNotes": "Matching animated Glitch and Glow Reflections artwork for FrankyVision NEXUS, PLAY!, MEDIA, TUBE and VPN. Artwork animates on highlight and stops when leaving the app or opening a menu."
 }
